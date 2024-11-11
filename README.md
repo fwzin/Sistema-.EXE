@@ -59,7 +59,7 @@ O sistema conta com as seguintes funcionalidades principais:
 
 ## Autores
 
-- **Desenvolvedor Principal:** [Bruno](https://github.com/fwzin)
+- **Desenvolvedor Principal:** Leonardo Machado
 - **Gerente de Projetos e Suporte Técnico:** Francisco Costa
 
 Para mais detalhes ou contribuições, visite o repositório oficial no GitHub: [Sistema de Gestão de Fazenda](https://github.com/fwzin/Sistema-.EXE/tree/main).
