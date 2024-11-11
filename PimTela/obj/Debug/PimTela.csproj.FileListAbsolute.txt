@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\Projetos em C#\PIM\PimTela\bin\Debug\PimTela.exe.config
+C:\Users\Usuario\Desktop\Projetos em C#\PIM\PimTela\bin\Debug\PimTela.exe
+C:\Users\Usuario\Desktop\Projetos em C#\PIM\PimTela\bin\Debug\PimTela.pdb
+C:\Users\Usuario\Desktop\Projetos em C#\PIM\PimTela\obj\Debug\PimTela.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Projetos em C#\PIM\PimTela\obj\Debug\PimTela.Form1.resources
+C:\Users\Usuario\Desktop\Projetos em C#\PIM\PimTela\obj\Debug\PimTela.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Projetos em C#\PIM\PimTela\obj\Debug\PimTela.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Projetos em C#\PIM\PimTela\obj\Debug\PimTela.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Projetos em C#\PIM\PimTela\obj\Debug\PimTela.exe
+C:\Users\Usuario\Desktop\Projetos em C#\PIM\PimTela\obj\Debug\PimTela.pdb
